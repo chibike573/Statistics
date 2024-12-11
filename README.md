@@ -10,3 +10,7 @@ The Tools Used In The Analyzing Of This Dataset Are:
    - [Download Here](https://Microsoft.com)
 - Microsoft PowerBI-Data_Visualization
    - [Download Here](https://Microsoft.com)
+## Data Cleaning
+Before The Analytics And Statistics Of This Data,We Took Care Of Some Errors Such as:
+- Incosistencies and
+- Aberrant Data
