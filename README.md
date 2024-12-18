@@ -14,3 +14,10 @@ The Tools Used In The Analyzing Of This Dataset Are:
 Before The Analytics And Statistics Of This Data,We Took Care Of Some Errors Such as:
 - Incosistencies and
 - Aberrant Data
+## Data Exploration
+These Are The Essential Questions That Were Considered In The Dataset,Which Will Also Ignite The Growth Of The Company If Taken Care Of;
+- What Was The Total Sales Of Goods/Services Made In Each Branch Of The Supermarket?
+- What Was The Total Sale Obtained From Each Goods/Services?
+- Total Number Of Customers That Are Membership And Non-Membership Of The Company?
+- Average Sales Of The Supermarket Branches?
+- Number Of Goods/Services Available In The Company Or Supermarket Branches
